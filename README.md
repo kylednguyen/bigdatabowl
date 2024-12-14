@@ -16,8 +16,7 @@ This project centers on the **critical dynamics of third downs**, exploring how 
    - Analyze pre-snap alignments and movements during third-down plays to identify key trends.  
    - Examine offensive and defensive adjustments specific to short-yardage, medium, and long-yardage situations.  
 
-2. **Feature Engineering**  
-   - Develop features such as formation type, motion dynamics, and defensive shifts.  
+2. **Feature Engineering**   
    - Incorporate contextual factors like time remaining, field position, and game score.  
 
 3. **Linking Third and Fourth Downs**  
